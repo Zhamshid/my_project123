@@ -1,0 +1,32 @@
+{
+    "login":"Кіру",
+    "email":"Электронды почта",
+    "password":"Құпиясөз",
+    "register":"Тіркелу",
+    "phoneNumber":"Телефон нөмірі",
+    "enterPassword":"Құпиясөзді енгізіңіз",
+    "name": "Аты",
+    "surname": "Тегі",
+    "enterName": "Атыңызды енгізіңіз",
+    "enterSurname": "Тегіңізді енгізіңіз",
+    "confirmation": "Тіркелу",
+    "codeSentToNumber": "Сіз {phone} нөміріңізге құпиясөз қабылданбады. Құпиясөзді енгізіңіз",
+    "resendSmsAfterSeconds": "Құпиясөзді қайталаңыз: {seconds}",
+    "resendCode": "Құпиясөзді қайталаңыз",
+    "home":"Басты бет",
+    "profile":"Профиль",
+    "settings":"Баптаулар",
+    "logout":"Шығу",
+    "news":"Жаңалықтар",
+    "profileSettings":"Профиль баптаулары",
+    "language":"Тіл",
+    "changeLanguage":"Тілді өзгерту",
+    "appLanguage":"Қолданба тілі",
+    "done":"Дайын",
+    "successfullyUpdated":"Сәтті жаңартылды",
+    "myUniqueCode":"Менің бірегей кодым"
+    
+
+    
+    
+}

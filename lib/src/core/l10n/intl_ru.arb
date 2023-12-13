@@ -1,0 +1,30 @@
+{
+    "login":"Войти",
+    "email":"Электронная почта",
+    "password":"Пароль",
+    "register":"Регистрация",
+    "phoneNumber":"Номер телефона",
+    "enterPassword":"Введите пароль",
+    "name": "Имя",
+    "surname": "Фамилия",
+    "enterName": "Введите имя",
+    "enterSurname": "Введите фамилию",
+    "confirmation": "Подтверждение",
+    "codeSentToNumber": "На ваш номер {phone} было отправлено СМС код для подтверждения. Введите его ниже",
+    "resendSmsAfterSeconds": "СМС код можно переотправить через: {seconds}",
+    "resendCode": "Отправить код снова",
+    "home":"Главная",
+    "profile":"Профиль",
+    "settings":"Настройки",
+    "logout":"Выйти",
+    "news":"Новости",
+    "profileSettings":"Настройки профиля",
+    "language":"Язык",
+    "changeLanguage":"Изменить язык",
+    "appLanguage":"Язык приложения",
+    "done":"Готово",
+    "successfullyUpdated":"Успешно обновлено",
+    "myUniqueCode":"Мой уникальный код"
+   
+    
+}
